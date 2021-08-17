@@ -1,0 +1,12 @@
+body {
+    font-family: 'Roboto', sans-serif;
+
+    color: white;
+    font-size: 30px;
+    background: rgb(56, 56, 56);
+}
+
+#button {
+    width: fit-content;
+    background: grey;
+}
